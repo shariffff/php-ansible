@@ -1,6 +1,7 @@
 {
     "name": "asm/php-ansible",
     "description": "A PHP wrapper for Ansible.",
+    "minimum-stability": "dev",
     "keywords": [
         "php",
         "ansible"
